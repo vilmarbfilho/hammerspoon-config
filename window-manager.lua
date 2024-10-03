@@ -1,3 +1,5 @@
+-- https://konradstaniszewski.com/blog/windows-between-spaces
+
 -- Set up the logger
 local log = hs.logger.new('WindowMover', 'info')
 
